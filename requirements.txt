@@ -1,0 +1,8 @@
+aiogram==2.25.1
+CurrencyConverter==0.17.16
+flake8==5.0.4
+flake8-docstrings==1.7.0
+pep8-naming==0.13.3
+requests==2.31.0
+telebot
+
